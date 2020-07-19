@@ -1,11 +1,13 @@
 import { React } from "./deps.ts"
+
 declare global {
     namespace JSX {
         interface IntrinsicElements {
-            button: any;
-            div: any;
-            h1: any;
-            p: any;
+            //button: React.DetailedHTMLProps<React.ButtonHTMLAttributes<React.HTMLButtonElement>, React.HTMLButtonElement>;
+            //div: any;
+            //h1: any;
+            //p: any;
+            div: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
         }
     }
 }
