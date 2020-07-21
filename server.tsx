@@ -2,6 +2,7 @@ import {
   opine,
   React,
   ReactDOMServer,
+  Vert
 } from "./deps.ts";
 
 import App from "./app.tsx";
@@ -35,5 +36,6 @@ app.use("/", (req, res, next) => {
 app.listen({ port: 3000 });
       
 console.log("React SSR App listening on port 3000");
-//console.log(`React: ${Object.getOwnPropertyNames(React)}`)
+//console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimelineElement)}`)
+//console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimeline)}`)
 //console.log(`React Server: ${Object.getOwnPropertyNames(ReactDOMServer)}`)

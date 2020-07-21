@@ -1,4 +1,6 @@
 import { React } from "./deps.ts"
+import VerticalTimelineElement from "./deep.ts";
+import VerticalTimeline from "./deep.ts";
 
 declare global {
     namespace JSX {
