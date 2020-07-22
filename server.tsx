@@ -12,6 +12,8 @@ const browserBundlePath = "/browser.js";
 const js =
   `import React from "https://dev.jspm.io/react@16.13.1";
    import ReactDOM from "https://dev.jspm.io/react-dom@16.13.1";
+   import { default as Vert } from "https://dev.jspm.io/react-vertical-timeline-component@2.6.2";
+   const { VerticalTimeline, VerticalTimelineElement } = Vert;
 
    const App = ${App};
    ReactDOM.hydrate(React.createElement(App), document.body);`;
@@ -35,6 +37,7 @@ app.use("/", (req, res, next) => {
 app.listen({ port: 3000 });
       
 console.log("React SSR App listening on port 3000");
+console.log(`${App}`)
 //console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimelineElement)}`)
 //console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimeline)}`)
 //console.log(`React Server: ${Object.getOwnPropertyNames(ReactDOMServer)}`)
