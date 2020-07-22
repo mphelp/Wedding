@@ -2,7 +2,6 @@ import {
   opine,
   React,
   ReactDOMServer,
-  Vert
 } from "./deps.ts";
 
 import App from "./app.tsx";
