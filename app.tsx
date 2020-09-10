@@ -10,23 +10,22 @@ import VerticalTimelineElement = Vert.VerticalTimelineElement;
 //import { CSS } from "./deps.ts";
 //import styles from './style.css';
 //console.log(`Styles: ${styles}`)
-//declare global {
-//    namespace JSX {
-//        interface IntrinsicElements {
-//          //button: React.DetailedHTMLProps<React.ButtonHTMLAttributes<React.HTMLButtonElement>, React.HTMLButtonElement>;
-//          //div: any;
-//          //h1: any;
-//          //p: any;
-//            div:                     React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
-//            VerticalTimeline:        any; //React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
-//            VerticalTimelineElement: any; //React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
-//            h3:                      any;
-//        }
-//    }
-//}
-//console.log(`HomeWork Icon: ${Object.getOwnPropertyNames(HomeWork.default)}`)
-//import Sitting1 from './Sitting1.jpg';
-//console.log(Sitting1);
+
+declare global {
+    namespace JSX {
+        interface IntrinsicElements {
+            div: any;
+            p: any;
+            br: any;
+            a: any;
+            h1: any;
+            h2: any;
+            h3: any;
+            h4: any;
+            img: any;
+        }
+    }
+}
 
 const App = () => {
     return <div>
