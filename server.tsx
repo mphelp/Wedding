@@ -5,12 +5,19 @@ import {
   ReactDOMServer,
   Vert,
   dirname,
-  join
+  join,
+  parse
 } from "./deps.ts";
 
 import App from "./app.tsx";
 
+// SETUP
 const app = opine();
+const DEFAULT_PORT = 8080;
+const {args} = Deno;
+const argPort = parse(args).port;
+const port = argPort ? Number(argPort) : DEFAULT_PORT;
+
 // STATIC FILE SERVING MUST GO FIRST 
 const __dirname = dirname(import.meta.url);
 const servedDir = join(__dirname, "public");
@@ -54,9 +61,9 @@ app.use("/", (req, res, next) => {
 
 //app.use(serveStatic('static'))
 
-app.listen({ port: 3000 });
+app.listen({ port });
       
-console.log("React SSR App listening on port 3000");
+console.log(`React SSR App listening on port ${port}`);
 console.log(`${App}`)
 //console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimelineElement)}`)
 //console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimeline)}`)
