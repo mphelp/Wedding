@@ -1,1 +1,1 @@
-web: deno run --allow-net=:${PORT} server.tsx --port=${PORT}
+web: deno run --allow-read --allow-net=:${PORT} server.tsx --port=${PORT}
