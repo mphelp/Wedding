@@ -35,6 +35,7 @@ const App = () => {
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date="2011 - present"
+                iconStyle={{ background: 'rgb(10, 150, 243)', color: '#fff' }}
             >
                 <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
                 <h4 className="vertical-timeline-element-subtitle">Certification</h4>
@@ -43,6 +44,7 @@ const App = () => {
             <VerticalTimelineElement
                 className="vertical-timeline-element--education"
                 date="2013 - present"
+                iconStyle={{ background: 'rgb(80, 150, 243)', color: '#fff' }}
             >
                 <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
                 <h4 className="vertical-timeline-element-subtitle">Certification</h4>
@@ -52,6 +54,7 @@ const App = () => {
             <VerticalTimelineElement
                 className="vertical-timeline-element--education"
                 date="6000 - present"
+                iconStyle={{ background: 'rgb(120, 150, 243)', color: '#fff' }}
             >
                 <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
                 <h4 className="vertical-timeline-element-subtitle">Certification</h4>
@@ -61,6 +64,7 @@ const App = () => {
             <VerticalTimelineElement
                 className="vertical-timeline-element--education"
                 date="6000 - present"
+                iconStyle={{ background: 'rgb(200, 150, 243)', color: '#fff' }}
             >
                 <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
                 <h4 className="vertical-timeline-element-subtitle">Certification</h4>
