@@ -26,25 +26,51 @@ declare global {
         }
     }
 }
+//console.log(data);
+//const text = Deno.readFileSync('./story/2021.txt')
+//console.log(text);
 
+// App Code
 const App = () => {
+    // Story Paragraphs
+    /*
+    useEffect(() => {
+
+    })*/
     return <div>
         <h3>Some header 🦕</h3>
         <VerticalTimeline>
             Inside timeline 😲
+            {/* SKIPPING COMPONENTS <TimelineElement story={data} title='' subtitle='' caption=''/>*/}
+            {/*<VerticalTimelineElement
+                date={story2021}
+            >
+                Story 2021
+            </VerticalTimelineElement>
+
+
+                    */
+             }
+
+
+
             <VerticalTimelineElement
-                className="vertical-timeline-element--work"
-                date="2011 - present"
+                date="2011 - present
+                line2..."
                 iconStyle={{ background: 'rgb(10, 150, 243)', color: '#fff' }}
+                contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                contentArrowStyle={{ borderRight: '7px solid  rgb(0, 60, 80)' }}
+                position='left'
+                dateClassName='fun'
             >
                 <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
                 <h4 className="vertical-timeline-element-subtitle">Certification</h4>
                 <p> Creative Direction, User Experience, Visual Design</p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
-                className="vertical-timeline-element--education"
                 date="2013 - present"
                 iconStyle={{ background: 'rgb(80, 150, 243)', color: '#fff' }}
+                position='left'
             >
                 <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
                 <h4 className="vertical-timeline-element-subtitle">Certification</h4>
@@ -52,7 +78,6 @@ const App = () => {
                 <p> Creative Direction, User Experience, Visual Design</p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
-                className="vertical-timeline-element--education"
                 date="6000 - present"
                 iconStyle={{ background: 'rgb(120, 150, 243)', color: '#fff' }}
             >
@@ -62,7 +87,6 @@ const App = () => {
                 <p> Creative Direction, User Experience, Visual Design</p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
-                className="vertical-timeline-element--education"
                 date="6000 - present"
                 iconStyle={{ background: 'rgb(200, 150, 243)', color: '#fff' }}
             >

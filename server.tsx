@@ -44,7 +44,6 @@ const js =
 const html =
   `<html><head>
   <script type="module" src="${browserBundlePath}"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.6.0/prop-types.min.js"></script>
   <link rel="stylesheet" href="https://dev.jspm.io/npm:react-vertical-timeline-component@3.0.2/style.min.css">
   <link rel="stylesheet" href="/css/base.css">
   <style>* { font-family: Helvetica; }</style></head><body>${
@@ -64,7 +63,11 @@ app.use("/", (req, res, next) => {
 app.listen({ port });
       
 console.log(`React SSR App listening on port ${port}`);
-console.log(`${App}`)
+//console.log(`${App}`)
 //console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimelineElement)}`)
 //console.log(`React: ${Object.getOwnPropertyNames(Vert.VerticalTimeline)}`)
 //console.log(`Icons: ${Object.getOwnPropertyNames(Icons)}`)
+
+// Probably don't need prop types:
+//<script src="https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.6.0/prop-types.min.js"></script>
+//const story2021 : string = await Deno.readTextFile("story/2021.txt");

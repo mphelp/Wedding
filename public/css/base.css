@@ -1,3 +1,7 @@
 body {
     background-color: #aabbcc;
 }
+.vertical-timeline-element-date {
+    /*background-color: #ccbbaa;*/
+    white-space: pre-line;
+}
