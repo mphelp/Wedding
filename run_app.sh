@@ -1,1 +1,1 @@
-deno run --allow-read --allow-net server.tsx
+deno run --allow-read --allow-net --unstable server.tsx
