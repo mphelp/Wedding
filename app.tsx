@@ -26,9 +26,10 @@ declare global {
         }
     }
 }
-//console.log(data);
-//const text = Deno.readFileSync('./story/2021.txt')
-//console.log(text);
+// GET STORY TEXT
+const bytes = await Deno.readFile('./story/2021.txt')
+const utf8Decoder = new TextDecoder('utf-8');
+const string2021 = utf8Decoder.decode(bytes);
 
 // App Code
 const App = () => {
@@ -47,13 +48,12 @@ const App = () => {
             >
                 Story 2021
             </VerticalTimelineElement>
-
-
                     */
              }
 
 
 
+            {/*
             <VerticalTimelineElement
                 date="2011 - present
                 line2..."
@@ -95,6 +95,7 @@ const App = () => {
                 <img src="/img/EngPic1.jpg" alt="EngagementPic1" width="500px"/>
                 <p> Creative Direction, User Experience, Visual Design</p>
             </VerticalTimelineElement>
+            */}
         </VerticalTimeline>
     </div>
 }
