@@ -6,12 +6,18 @@ import VerticalTimelineElement = Vert.VerticalTimelineElement;
 //@ts-ignore
 import VerticalTimeline = Vert.VerticalTimeline;
 
+// Story Content
+import { y2011 } from '../story.ts'
+
 export const Timeline = () => {
     // Could do stuff here
     return (
-        <VerticalTimeline>
-            <VerticalTimelineElement>
-                hi
+        <VerticalTimeline> 
+            {/* 2011 */}
+            <VerticalTimelineElement
+                date="Story Here"
+            >
+                Pictures here
             </VerticalTimelineElement>
         </VerticalTimeline>
     );

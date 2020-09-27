@@ -1,9 +1,0 @@
-Paragraph 1 about Sydney and me
-
-Paragraph 2 about Sydney and me
-
-Paragraph 3
-...
-
-...
-end
