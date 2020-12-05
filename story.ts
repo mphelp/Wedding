@@ -17,7 +17,7 @@ const y2011 : string =
     By the time CHAMP was over, I was so sad to leave. And yet, while we hugged, said goodbye, I let out a small act of boldness and gave her my email on a ripped piece of notebook paper. She took it, and over email, we exchanged numbers. I was thrilled! Little did I know the adventure we'd started together.`
 ;
 // 2012
-const y2012 : string = 
+const y2012 : string =
    `Much to my surprise, Sydney decided to stay friends with me. Even though we were apart, we continued to text back and forth and share with each other our silly high school lives. I hadn't ever met someone so willing to hear about all the important and totally trivial events I was experiencing. And without a doubt, I could listen to her talk about band, her cat, her family all day long.
 
     Texting Sydney was the highlight of my day. Amidst the chaos of trying to make new friends and navigate a new school, I delighted in talking to Sydney, and thank goodness she enjoyed talking to me! Through her communication with me, she really affirmed me like no one had. She had no need of texting me; she always bore a special strength, independence, and self confidence. But she saw something in me that even I didn't see.
@@ -25,7 +25,7 @@ const y2012 : string =
     I'd like to say that I built up the courage now finally to ask her out. Or even to catch up in person with her! But my biggest obstacle in high school was fear. I was afraid that she didn't feel the same way about me! Don't worry. Things pick up from here. The story doesn't end here thankfully.`
 
 // 2013
-const y2013 : string = 
+const y2013 : string =
    `I thank God for His grace. Because what I did in 2013 was so uncharacteristically me. The prior Matthew would've been shocked.
 
     I finally said, it's been long enough, I have to take the jump, I have to ask her out! And I didn't wait. I was done waiting. So I asked her out to the dumbest of places - a mediocre high school play - but with more urgency than I ever had in my life: the very next day. None of this is the Matthew I knew. The Matthew I knew was petrified of failure and screwing things up. But I saw an opportunity, God gave me the nudge, and to my surprise, she said yes! My crush said yes!
@@ -41,7 +41,7 @@ const y2013 : string =
     A few weeks later, I asked her out again, this time to the movie theater where I could expect the entertainment to be a bit better! And so, our first movie together was the very lighthearted Hunger Games: Catching Fire. From there, we went on another date, gave each other Christmas gifts (a mixtape from her and my own piano recording CD from me), and continued that momentum. With each date, I opened up more and began to know this beautiful woman more and more. My heart was happy indeed.`
 
 // 2014
-const y2014 : string = 
+const y2014 : string =
    `It's difficult to express how important 2014 was for both Sydney and me. But I'll try to do it justice!
 
     We continued to like each other more and more. I mean, how could I not? Sydney and I were naturally invested in each other and enjoyed each other's company, no matter where we were! Despite differences, we always strived to grow together, in the easy and the hard.
@@ -57,6 +57,18 @@ const y2014 : string =
     Following this encounter with God, the entire purpose of my relationship with Sydney shifted. Sure, I was still chasing after this beautiful woman and doing my best to love her. But now, I understood not only where her dignity came from, but also who was sustaining us and guiding us on our journey of love to each other and everyone we meet. Suddenly our relationship became missionary. And marriage meant far more than a romantic commitment. Sure, it still was. But it became holy. And I couldn't imagine living out that mission with anyone else.`
 
 // 2015
+const y2015 : string =
+    `I thank God for the call we received and the many graces from sacraments, service, and retreats... because 2015 ended up being a year filled with challenges!
+
+    Syd and I were just fine! In fact, we were growing closer and our identity in God gave so much more intentionality to everything we did, from staying up late telling stories on the phone to hearing the stories of other high school students at youth group. Even when we fought, we remembered, at the end of the day, our belonging to unconditional love even amidst Syd and my conditional love! Yes, Syd and I were continuing to grow as high school sweethearts. But the high school part presented some challenges, like it does to many others.
+
+    First, we both registered for far too many APs. Our curriculum ended up harder than we wanted and we both put pressure on ourselves to excel. This wouldn't be the last time we'd be our own worst critics! We did fine. But that kind of stress does take its toll.
+
+    Second, college apps wore us down. Despite not applying to many schools beyond Michigan and Notre Dame, we poured countless hours into our few apps. Our essays had to be perfect in our minds. It didn't help that I obsessed over getting into Notre Dame once Syd got in! At that point, I couldn't imagine going anywhere else.
+
+    And third, and most significantly, Syd and I became long distance. With great pride and excitement, I watched Syd transition to her freshman year at Notre Dame. And while we watched that adventure unfold for her and eventually (next year) that same adventure for me, we recognized the challenge we'd have being long distance.
+
+    Despite our busyness and Syd navigating an entire new chapter of her life, we made it work! Notre Dame is under three hours from our home area of Lansing, so it was certainly drivable. When I wasn't seeing her on weekends or breaks, we skyped. And oh boy did we skype! We called each other more than we ever had... and we came to appreciate those few times we had in person. Seeing Syd in person - from my first ever ND home game with her to visiting Our Lady's grotto - was precious. And when I couldn't, I tried to tell the best bedtime story over skype, hopeful we'd see each other very soon.`
 
 // 2016
 
