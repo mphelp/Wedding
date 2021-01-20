@@ -3,5 +3,5 @@ import React from "https://dev.jspm.io/react@16.13.1";
 
 export const Title = () =>
   <header className="title_header">
-    <h1 className="title_text">Deno Doggo List</h1>
+    <h1 className="title_text">Our 10 Year Story</h1>
   </header>;

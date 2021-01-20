@@ -15,7 +15,10 @@ export const Timeline = () => {
         <VerticalTimeline> 
             {/* 2011 */}
             <VerticalTimelineElement
-                date="Story Here"
+                date={y2011}
+                icon={
+                    <img src="https://img.icons8.com/material-sharp/24/000000/2010.png"/> 
+                }
             >
                 Pictures here
             </VerticalTimelineElement>
