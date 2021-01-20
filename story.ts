@@ -1,85 +1,155 @@
 // 2011
 const y2011 : string =
-   `Sydney and I met in an unlikely way at an unlikely place ... math class? Yes! You heard me right. Our story begins in a math class. "How on earth did that happen?" you might ask.
-    
-    At the start of high school, we both independently enrolled in a program called CHAMP. Once a week, we'd leave our schools and be dropped off at Michigan State University's Wells Hall to learn high school math: Algebra, Geometry, the works! I believed at first that this subject I loved would be my only solace as I, the shy kid, was thrown head first into a class full of new kids. But I was completely and utterly wrong. And I'm so glad for that.
-
-    I fell for Syd immediately. On the first day of class, I boldly sat right next to her and introduced myself. As I sat nervously for her response, she happily introduced herself too. And much to my gladness, we quickly became friends. I thank her dearly for her patience with me, after all, my shy conversation must not have been that riveting! But she met me where I was at, laughed at my stupid jokes, and enjoyed talking to me, the shy kid with a huge crush on her.
-
-    When I think back on these moments, a few stick out. And they all revolve around the break time we shared.
-    
-    Even as a math freak, sometimes the class would drag on. So the hour long break we had was a perfect opportunity to stretch, relax, and get to know each other. I don't remember many of the conversations with Syd and her friends. But I remember a lot of laughter. 
-    
-    One such chat was uniquely memorable. Syd and I talked so long, that even when class resumed, we were still talking back and forth. Our teacher, Mr. Sikorski, a fun and kind Ukrainian man, noticed us and told us to quiet down. From that day forward, Syd would remember me as the kid she enjoyed talking to so much that she got in trouble for it!
-
-    All year long, I continued to get to know Syd. While other kids flew down the college hallway on their classroom chairs or drew on the chalkboard, we talked. And all the while, my boldness only went so far. Instead of complimenting Syd's smarts and her looks, I complimented her backpack choice. And I shied away from asking her to get a Starbuck's latte with me just down the hallway. I cherished my friendship with her and somehow feared these small, potentially romantic acts. 
-    
-    By the time CHAMP was over, I was so sad to leave. And yet, while we hugged, said goodbye, I let out a small act of boldness and gave her my email on a ripped piece of notebook paper. She took it, and over email, we exchanged numbers. I was thrilled! Little did I know the adventure we'd started together.`
+`
+In 2011, we met in an unlikely way at an unlikely place: a math class! 
+I saw Sydney in the CHAMP program classroom and instantly sat down next to her. 
+Over the course of the year, we’d get to know each other a bit better. 
+I’m sure our conversation wasn’t riveting as awkward teenagers, but I could tell she was special. 
+I remember telling my brother all about her. And I’m so glad she saw something special in me.
+`
 ;
 // 2012
 const y2012 : string =
-   `Much to my surprise, Sydney decided to stay friends with me. Even though we were apart, we continued to text back and forth and share with each other our silly high school lives. I hadn't ever met someone so willing to hear about all the important and totally trivial events I was experiencing. And without a doubt, I could listen to her talk about band, her cat, her family all day long.
-
-    Texting Sydney was the highlight of my day. Amidst the chaos of trying to make new friends and navigate a new school, I delighted in talking to Sydney, and thank goodness she enjoyed talking to me! Through her communication with me, she really affirmed me like no one had. She had no need of texting me; she always bore a special strength, independence, and self confidence. But she saw something in me that even I didn't see.
-
-    I'd like to say that I built up the courage now finally to ask her out. Or even to catch up in person with her! But my biggest obstacle in high school was fear. I was afraid that she didn't feel the same way about me! Don't worry. Things pick up from here. The story doesn't end here thankfully.`
-
+`
+In 2012, I ended up not sticking around for the second year of CHAMP. 
+But to my surprise and joy, Sydney and I kept in touch! 
+I had given her my email on a slip of paper the year before, so we first connected over email and then began texting back and forth. 
+As a nervous freshman anxious about everything high school related, Sydney grounded me and affirmed me in unspoken ways. 
+Texting her was undoubtedly the highlight of my day. 
+`
+;
 // 2013
 const y2013 : string =
-   `I thank God for His grace. Because what I did in 2013 was so uncharacteristically me. The prior Matthew would've been shocked.
-
-    I finally said, it's been long enough, I have to take the jump, I have to ask her out! And I didn't wait. I was done waiting. So I asked her out to the dumbest of places - a mediocre high school play - but with more urgency than I ever had in my life: the very next day. None of this is the Matthew I knew. The Matthew I knew was petrified of failure and screwing things up. But I saw an opportunity, God gave me the nudge, and to my surprise, she said yes! My crush said yes!
-
-    She was on a trip to Boston for a journalism conference. And apparently she would be getting home just in time to go out with me. Her mom asked her "wait, what are you doing when you get home?" Even after that long trip, Syd gave me the time for our mediocre date.
-    
-    The date didn't go as planned at all! Some random classmates interrupted us to ask who Sydney was, an acquaintance from middle school started talking my ear off while I was trying to connect with Sydney and to top it off, the stage set fell apart halfway in. It was kind of a mess.
-    
-    Finally at the intermission, I was able to share a cookie or two with Sydney outside the auditorium and actually talk. It was just as I remembered. Except that she was even prettier than I had remembered! We bonded over friends in CHAMP, she laughed at my stupid jokes, and we smiled a lot. I was still a little nervous talking to her. But God gave me the grace to make it all so much more natural.
-
-    And that was our first date on November 16, 2013.
-    
-    A few weeks later, I asked her out again, this time to the movie theater where I could expect the entertainment to be a bit better! And so, our first movie together was the very lighthearted Hunger Games: Catching Fire. From there, we went on another date, gave each other Christmas gifts (a mixtape from her and my own piano recording CD from me), and continued that momentum. With each date, I opened up more and began to know this beautiful woman more and more. My heart was happy indeed.`
+`
+In 2013, after much delay, I finally summoned the courage to ask her out! 
+I had convinced myself that I was unfit to be her date previously. I was petrified of letting her down. 
+But out of nowhere, something inside of me - the nudge of God - broke down those lies and took the plunge. 
+I asked if she wanted to see my high school’s performance of Peter Pan later that day. 
+Despite my short-notice request, she said yes!! 
+The play was mediocre, the stage set fell over twice, and I didn’t say everything I wanted to because of interruptions from friends. 
+But it was a date nonetheless! And a happy one because it was with Syd. I do remember us laughing thankfully during the intermission. 
+So it wasn’t a total bust after all. Besides, she decided to see me again! That was our first date, on Nov 16 2013.
+`
+;
 
 // 2014
 const y2014 : string =
-   `It's difficult to express how important 2014 was for both Sydney and me. But I'll try to do it justice!
-
-    We continued to like each other more and more. I mean, how could I not? Sydney and I were naturally invested in each other and enjoyed each other's company, no matter where we were! Despite differences, we always strived to grow together, in the easy and the hard.
-
-    I kept coming up with dates and also prioritized some big events for the two of us. In 2014, we shared our first dance at a winter homecoming (I had a baby face and Syd was the prettiest one out there). We shared our first kiss, first valentine's day, first "I love you" to each other, and much more including prom and our birthdays. With each next adventure, I was happy to share it with her. I couldn't believe her patience with me and my shenanigans! Through it all, she loved me and I echoed that same love back to her.
-    
-    While 2014 was filled with the growth of our dynamic duo, Syd also played a huge role in bringing me closer to not only a community but the God I barely knew. How did this happen?
-    
-    Well, Sydney took a chance on me and invited me to her Catholic youth group. In my head I had two reasons to go: 1. Sydney likes this, and she's cute, so I'm going to try out things she likes! 2. A genuine, more subtle curiosity for relationship with God that I hadn't developed younger. I was curious enough, and God took that small nugget of interest and ran with it. I found great friends, great theology, and great conversations. I asked questions and came back with solid, grounded, practiced answers and other, better questions. I became comfortable with praise and prayer to God. And it all culminated in something wonderful.
-    
-    The youth group introduction prepared me for a life changing retreat. On this retreat, I basked in the graces of the sacraments and began to understand my dignity and mission as a man of God, especially as one called to love and honor Sydney. Christ was preparing my heart to surrender everything before Him in the monstrance. And I did. And it was the surest thing I ever did. My heart was full, my soul glad, and my spirits high. That night, while other retreatants played basketball for hours on end in the gym, I was enthralled by Sacred Scripture, longing to learn and encounter more of the God that Sydney lead me to.
-    
-    Following this encounter with God, the entire purpose of my relationship with Sydney shifted. Sure, I was still chasing after this beautiful woman and doing my best to love her. But now, I understood not only where her dignity came from, but also who was sustaining us and guiding us on our journey of love to each other and everyone we meet. Suddenly our relationship became missionary. And marriage meant far more than a romantic commitment. Sure, it still was. But it became holy. And I couldn't imagine living out that mission with anyone else.`
+`
+In 2014, not only did we continue our romance, but it took on a whole new meaning as my life was forever altered by God. 
+We shared our first Valentine’s Day and were often seen enjoying movies at the theater together. 
+We shared our first dance at a wintertime homecoming and could be spotted holding hands. 
+If you’re curious who kissed who first, I’ll fill you in: she kissed me! 
+We continued to enjoy spending time together; it was less about the “what” of our dates and always about the “who”: confident, stunning, thoughtful Sydney. 
+And then, after a few months of joining her youth group for romantic reasons, I went on a retreat. 
+Catholic men inspired me through their response to God's will in their vocations. Songs lifted my awkward soul out of its shell. 
+And the sacraments were shown to me in their full splendor, culminating in an overpowering moment of closeness with God. 
+I received an inspired message about my vocation and broke down in joy. 
+I was called to marriage and to serve Sydney as much as I am able to with the grace of God! 
+From then on, our relationship meant so much more.
+`
+;
 
 // 2015
 const y2015 : string =
-    `I thank God for the call we received and the many graces from sacraments, service, and retreats... because 2015 ended up being a year filled with challenges!
-
-    Syd and I were just fine! In fact, we were growing closer and our identity in God gave so much more intentionality to everything we did, from staying up late telling stories on the phone to hearing the stories of other high school students at youth group. Even when we fought, we remembered, at the end of the day, our belonging to unconditional love even amidst Syd and my conditional love! Yes, Syd and I were continuing to grow as high school sweethearts. But the high school part presented some challenges, like it does to many others.
-
-    First, we both registered for far too many APs. Our curriculum ended up harder than we wanted and we both put pressure on ourselves to excel. This wouldn't be the last time we'd be our own worst critics! We did fine. But that kind of stress does take its toll.
-
-    Second, college apps wore us down. Despite not applying to many schools beyond Michigan and Notre Dame, we poured countless hours into our few apps. Our essays had to be perfect in our minds. It didn't help that I obsessed over getting into Notre Dame once Syd got in! At that point, I couldn't imagine going anywhere else.
-
-    And third, and most significantly, Syd and I became long distance. With great pride and excitement, I watched Syd transition to her freshman year at Notre Dame. And while we watched that adventure unfold for her and eventually (next year) that same adventure for me, we recognized the challenge we'd have being long distance.
-
-    Despite our busyness and Syd navigating an entire new chapter of her life, we made it work! Notre Dame is under three hours from our home area of Lansing, so it was certainly drivable. When I wasn't seeing her on weekends or breaks, we skyped. And oh boy did we skype! We called each other more than we ever had... and we came to appreciate those few times we had in person. Seeing Syd in person - from my first ever ND home game with her to visiting Our Lady's grotto - was precious. And when I couldn't, I tried to tell the best bedtime story over skype, hopeful we'd see each other very soon.`
+`
+In 2015, Sydney and I were faced with a challenge: dating long distance. 
+The year however began with incredible news: Sydney had gotten into Univ. of Notre Dame! I wasn’t surprised in the slightest. 
+But I remained back home completing my senior year of high school. 
+And so, since we were committed to each other, we Skyped more times than I can count. 
+Our Skype calling really helped bridge the physical distance we were experiencing. 
+And it also made painfully clear how much we took seeing each other in person for granted! 
+But at the end of a long day studying and learning, we took solace in being able to see each other faces and ramble on with stories and pray when while apart.
+`
+;
 
 // 2016
+`
+In 2016, I joined Sydney at Notre Dame! 
+My randomly assigned roommates (Chris, Jacob, and Tim - you might recognize some of those names) instantly accepted me. 
+Right away, I was submerged into the ocean of traditions not only of my college dorm Dillon but the entire campus at large. 
+That includes setting aside all of Saturday for Game Day! 
+Learning the Alma Mater and every chant, both the family-friendly and explicit ones. 
+Or attending the beautiful liturgy of a Basilica Mass or the community-oriented Thursday Dillon Mass with milkshakes afterwards. 
+I only ate at South dining hall, never North, and I began to make friends down the hall from me through the medium of couch games. 
+Still unsure of my path, I picked up physics as a major, but would soon after discover coding over winter break and make a 180 for computer science. 
+All in all, it was exciting, new, adventurous, and most importantly, such a joy to be there with Sydney!
+`
+;
 
 // 2017
+`
+In 2017, Syd and I were swept off our feet by the wonders of our study abroad semester. 
+I could say much about our adventure, but I’ll try to be brief! Notre Dame set us students up with a Villa in downtown Rome. 
+We took the tram to classes, the metro to a school where we taught English, and a bus... actually no one trusts the buses to ever be on time! 
+While still on a budget, Sydney and I took trips to France, Germany, Poland, or elsewhere in gorgeous, culture-rich Italy. 
+But the crowning jewel of our time there was our visit to San Potito Sannitico, the small Italian village of Syd’s distant relatives. 
+It all began with Sydney’s dad’s passionate efforts to find their family’s current day descendants. 
+At long last, we made contact, and her many times removed cousin Nicola told us to come on over! 
+Nicola and family picked us up from the small train station and drove us tens of miles into the countryside, eventually arriving at their small village beneath a stunning mountain. 
+Their entire family hosted us at their home then threw an entire feast in our honor. 
+Never have I had more trouble eating everything given to me! We met everyone, danced with everyone, and were blown away by their generosity. 
+If we admired a painting on the wall, they offered to give it to us! 
+As a beautiful summary of their kindness, right before hopping on the train home, Nicola gave his own coat to me - the boyfriend of his far distant cousin. 
+Nicola, Rosella, Fabio, and Michela showed us such love.
+`
+;
 
 // 2018
+`
+In 2018, I asked Sydney to marry me. I’ll spoil the surprise... I’m sure you’re aware: she said yes! 
+What was happening meanwhile? Sydney and I were wrapping up undergrad together. 
+I can confidently say she was working harder than me, she had an entire thesis to finish! 
+So how did I ask? It was our five year anniversary and we attended a friday Mass at the basilica. 
+For weeks leading up to our anniversary, I continued to throw her off and convince her I wasn’t proposing. 
+I can’t believe I did it though, because Syd is an expert sleuth! So I told Syd we were going out to dinner. 
+But on the way there, I suggested that we stop in to the off campus church to pray, the one where Sydney does kids’ Sunday catechesis. 
+She agreed, and just “by chance” the church was unlocked and we could walk in! 
+Meanwhile, my awesome roommates James and Chris had setup an array of candles we designed in the shape of the sacred heart of Jesus. 
+Sydney was speechless. We knelt at the altar. I said a prayer of gratitude, breaking down in tears. 
+And then I whispered “You should probably stand up now...!” We both laughed and I proposed at last! 
+Behind her crying, I heard her “yes.” 
+Our night ended with a fun pasta dinner we prepared together and a surprise party waiting at her dorm room. 
+What a special moment, thank you God and thank you friends!
+`
+;
 
 // 2019
+`
+In 2019, Sydney and I began the next chapters of our work vocations. 
+During the summer, I decided to turn down a return internship offer in hopes of a better company. 
+My wish was granted! And Sydney, now graduated with her Bachelors, began her time in Echo. 
+Only a few hours away from me at Notre Dame, she lived with amazing roommates Claire and Marissa to serve the Church in the Joliet diocese. 
+The whole year was a series of growth opportunities for both of us. 
+Sydney had to navigate an entirely new job at the parish complete with ever changing asks. 
+I had to navigate a whole new company that summer with new technology and people to work with and meet. 
+But in the end, we gained such good experience and became far more prepared for our careers. 
+And along the way, we made such incredible life long friends!
+`
+;
 
 // 2020
+`
+In 2020, we stayed home like everyone else. The year got off to a strong start if you can believe it. 
+I moved into a short term apartment in downtown Chicago and walked every weekday to my new full-time software position. 
+On weekends, I could easily visit Sydney and her incredible Echo community (Marissa, Claire) by taking a train to the burbs. 
+I was thrilled to be only an hour away! But then, COVID happened. Nothing I could say hasn’t been said before. 
+But let’s just say I was lucky to work for a grocery giant and lucky to have a job easily transitioned to work from home. 
+Jacob, my college roommate, coworker, and best man, took me in. His family made me feel like their fourth son. 
+Eventually, stay at home was lifted, and Jacob and I secured a year long condo lease until the month of my wedding with Syd. 
+While I enjoyed being back together with my amazing roommate, I struggled to be so distant from Sydney. 
+I thought long distance was over! But instead, week by week one of us was exposed to the virus, and seeing each other remained infrequent throughout the year. 
+In fact, for our 7 year anniversary in November, I watched and waved and called Sydney from the sidewalk, while she looked at me from her bedroom window. 
+It was a difficult year like this for everyone. Despite this, I remained so thankful for many glimmers of hope. 
+The Catholic church’s availability of COVID-safe sacraments in Chicago. 
+Celebrating our birthdays and Christmas breaks in person with small groups of loved ones. 
+And getting to know actually genuine, kind neighbors in Chicago: those sleeping outside your grocery store rather than next-door to you. 
+`
+;
 
 // 2021
+`
+2021 is upon us, and I’m optimistic about the future! 
+`
+;
 
-export { y2011, y2012, y2013, y2014 }
+export { y2011, y2012, y2013, y2014, y2015, y2016, y2017, y2018, y2019, y2020, y2021 }
