@@ -7,7 +7,7 @@ import VerticalTimelineElement = Vert.VerticalTimelineElement;
 import VerticalTimeline = Vert.VerticalTimeline;
 
 // Story Content
-import { y2011 } from '../story.ts'
+import { years } from '../story.ts'
 
 export const Timeline = () => {
     // Could do stuff here
@@ -15,7 +15,7 @@ export const Timeline = () => {
         <VerticalTimeline> 
             {/* 2011 */}
             <VerticalTimelineElement
-                date={y2011}
+                date={years[0]}
                 icon={
                     <img src="https://img.icons8.com/material-sharp/24/000000/2010.png"/> 
                 }
