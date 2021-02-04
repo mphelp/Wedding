@@ -8,20 +8,21 @@ import VerticalTimeline = Vert.VerticalTimeline;
 
 // Story Content
 import { years } from '../story.ts'
+import i2010 from '../public/svg/2010_gray.svg.react.tsx'
 
 export const Timeline = () => {
     // Could do stuff here
     return (
         <VerticalTimeline> 
-            {/* 2011 */}
-            <VerticalTimelineElement
-                date={years[0]}
-                icon={
-                    <img src="https://img.icons8.com/material-sharp/24/000000/2010.png"/> 
-                }
-            >
-                Pictures here
-            </VerticalTimelineElement>
+            { years.map( year => (
+                <VerticalTimelineElement
+                    date={year}
+                    icon={i2010()}
+                    iconStyle={{ background: 'rgb(255, 255, 255)', color: '#fff', width: '60' }}
+                >
+                    {year}
+                </VerticalTimelineElement>
+            ))}
         </VerticalTimeline>
     );
 }

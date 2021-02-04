@@ -2,6 +2,13 @@ body {
     background-color: #aabbcc;
 }
 .vertical-timeline-element-date {
+    text-align: justify !important;
     /*background-color: #ccbbaa;*/
     /*white-space: pre-line;*/
+}
+.vertical-timeline-element-icon svg {
+    width:  40px;
+    height: 40px;
+    margin-left:  -20px;
+    margin-top: -19px;
 }
