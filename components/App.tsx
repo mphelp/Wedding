@@ -5,15 +5,12 @@ import { Timeline } from "./Timeline.tsx";
 
 export const App = ({ isServer = false }) => {
   if (isServer) {
-    return (<>
-      <Title />
-      <p className="app_loading">Loading Timeline...</p>
-    </>);
+    return (<></>);
   }
 
   return (<>
-    <Title />
     <React.Suspense fallback={<p className="app_loading">Loading Timeline...</p>}>
+        <Title />
         <p>Main body of app</p>
         <img src="/img_comp/EngPic1.jpg" width="400px"/>
         <Timeline />
