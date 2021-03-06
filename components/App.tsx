@@ -2,6 +2,7 @@
 import React from "https://dev.jspm.io/react@16.13.1";
 import { Title } from "./Title.tsx";
 import { Timeline } from "./Timeline.tsx";
+import { Footer } from "./Footer.tsx"
 
 export const App = ({ isServer = false }) => {
   if (isServer) {
@@ -11,8 +12,8 @@ export const App = ({ isServer = false }) => {
   return (<>
     <React.Suspense fallback={<p className="app_loading">Loading Timeline...</p>}>
         <Title />
-        <p>Main body of app</p>
         <Timeline />
+        <Footer />
     </React.Suspense>
   </>);
 };

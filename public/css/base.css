@@ -1,14 +1,53 @@
 body {
-    background-color: #fabbcc;
+    background-color: #9681aa;
+    margin: 0 !important;
 }
 .vertical-timeline-element-date {
     text-align: justify !important;
     /*background-color: #ccbbaa;*/
-    /*white-space: pre-line;*/
+    white-space: pre-line;
+}
+span.vertical-timeline-element-date {
+    padding-left: 15px !important;
+    font-size: large !important;
+    padding-top: 0px !important;
 }
 .vertical-timeline-element-icon svg {
     width:  40px;
     height: 40px;
     margin-left:  -20px;
     margin-top: -19px;
+}
+.vertical-timeline-element-content {
+    display: flex;
+    justify-content: center;
+}
+.custom_img {
+    max-height: 320px;
+    max-width:  600px;
+}
+#title {
+    background-color: #333333;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    color: #9681aa;
+    align-items: center;
+    font-size: x-large;
+}
+#footer {
+    background-color: #333333;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    color: #9681aa;
+    align-items: center;
+}
+div.vertical-timeline-element {
+    min-height: 500px !important;
+}
+div.vertical-timeline.vertical-timeline--animate.vertical-timeline--two-columns {
+    padding-top: 100px !important;
 }
