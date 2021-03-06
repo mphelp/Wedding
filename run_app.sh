@@ -1,1 +1,1 @@
-deno run --allow-read --allow-net --unstable server.tsx
+deno run -c tsconfig.json --allow-read --allow-net --unstable server.tsx
