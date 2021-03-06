@@ -10,6 +10,8 @@ import VerticalTimeline = Vert.VerticalTimeline;
 import { years } from '../story.ts'
 // Icon Content
 import icons from '../public/svg_react/icons.tsx'
+// Image Content
+import images from '../images.ts'
 
 export const Timeline = () => {
     // Could do stuff here
@@ -22,7 +24,7 @@ export const Timeline = () => {
                     icon={icons[year_i]()}
                     iconStyle={{ background: 'rgb(255, 255, 255)', color: '#fff', width: '60' }}
                 >
-                    {year}
+                    <img src={`${images[1]}`} />
                 </VerticalTimelineElement>
             ))}
         </VerticalTimeline>

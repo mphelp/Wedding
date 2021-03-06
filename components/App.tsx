@@ -12,7 +12,6 @@ export const App = ({ isServer = false }) => {
     <React.Suspense fallback={<p className="app_loading">Loading Timeline...</p>}>
         <Title />
         <p>Main body of app</p>
-        <img src="/img_comp/EngPic1.jpg" width="400px"/>
         <Timeline />
     </React.Suspense>
   </>);
