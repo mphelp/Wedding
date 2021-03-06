@@ -155,6 +155,13 @@ And getting to know actually genuine, kind neighbors in Chicago: those sleeping 
 const y2021 : string =
 `
 2021 is upon us, and I’m optimistic about the future!
+
+Sydney and I have both received our vaccines, we're putting a down payment on a house, and 
+we're about to be married... there is much to be thankful for. 
+
+Thanks for tuning in to this timeline of these last 10 years. :)
+
+To all the people who supported us along the way, from friends to family, thank you. 
 `
 ;
 
