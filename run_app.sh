@@ -1,1 +1,1 @@
-deno run --allow-read --allow-net=:${PORT} --unstable server.tsx --port=${PORT}
+deno run --allow-read --allow-net --unstable server.tsx --port=8080
