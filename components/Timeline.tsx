@@ -1,7 +1,7 @@
 // @deno-types="https://raw.githubusercontent.com/Soremwar/deno_types/4a50660/react/v16.13.1/react.d.ts"
 import React from "https://dev.jspm.io/react@16.13.1";
 // VERTICAL TIMELINE
-import { default as Vert } from "https://dev.jspm.io/react-vertical-timeline-component@2.6.2";
+import { default as Vert } from "https://dev.jspm.io/react-vertical-timeline-component@2.1";
 //@ts-ignore
 import VerticalTimelineElement = Vert.VerticalTimelineElement;
 //@ts-ignore
@@ -35,7 +35,7 @@ export const Timeline = () => {
         <>
             <VerticalTimelineElement
                 key={0}
-                date={0}
+                date={"0"}
             >
                     <img src={images[0][0]} className="custom_img"/>
             </VerticalTimelineElement>
