@@ -33,7 +33,12 @@ export const Timeline = () => {
     // Could do stuff here
     return (
         <>
-            <img src={images[0][0]}/>
+            <VerticalTimelineElement
+                key={0}
+                date={0}
+            >
+                    <img src={images[0][0]} className="custom_img"/>
+            </VerticalTimelineElement>
         </>
     );
 }
