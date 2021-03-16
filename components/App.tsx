@@ -11,8 +11,8 @@ export const App = ({ isServer = false }) => {
 
   return (<>
     <React.Suspense fallback={<p className="app_loading">Loading Timeline...</p>}>
-      <button onClick={() => { return (1 + 1)}}>Click the 🦕</button>
-      <p>You clicked the 🦕  0 times</p>
+      <Title />
+      <Footer />
     </React.Suspense>
   </>);
 };
