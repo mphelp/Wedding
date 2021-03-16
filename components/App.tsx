@@ -8,12 +8,12 @@ export const App = ({ isServer = false }) => {
   if (isServer) {
     return (<></>);
   }
+  const [count, setCount] = React.useState(0);
 
   return (<>
     <React.Suspense fallback={<p className="app_loading">Loading Timeline...</p>}>
-        <Title />
-        <Timeline />
-        <Footer />
+      <button onClick={() => setCount(count + 1)}>Click the 🦕</button>
+      <p>You clicked the 🦕 {count} times</p>
     </React.Suspense>
   </>);
 };
