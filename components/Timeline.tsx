@@ -33,7 +33,7 @@ export const Timeline = () => {
     // Could do stuff here
     return (
         <>
-            <img src={images[0][0]}/>
+            <p> Hi </p>
         </>
     );
 }
