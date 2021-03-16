@@ -12,6 +12,7 @@ export const App = ({ isServer = false }) => {
   return (<>
     <React.Suspense fallback={<p className="app_loading">Loading Timeline...</p>}>
         <Title />
+        <Timeline />
         <Footer />
     </React.Suspense>
   </>);
