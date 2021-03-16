@@ -33,19 +33,7 @@ export const Timeline = () => {
     // Could do stuff here
     return (
         <>
-            <VerticalTimeline>
-                { years.map((year, year_i) => (
-                    <VerticalTimelineElement
-                        key={year_i}
-                        date={year}
-                        icon={icons[year_i]()}
-                        iconStyle={{ background: 'rgb(255, 255, 255)', color: '#fff', width: '60' }}
-                        dateStyle="padding-left: 15px"
-                    >
-                        <img src={`${images[year_i][0]}`} className="custom_img"/>
-                    </VerticalTimelineElement>
-                ))}
-            </VerticalTimeline>
+            <img src={images[0][0]}/>
         </>
     );
 }
