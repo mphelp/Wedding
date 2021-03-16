@@ -19,7 +19,9 @@ export const Timeline = () => {
     // Could do stuff here
     return (
         <>
-            <VerticalTimeline>
+            <VerticalTimeline
+                className="vertical-timeline--two-columns"
+            >
                 { years.map((year, year_i) => (
                     <VerticalTimelineElement
                         key={year_i}
