@@ -51,6 +51,7 @@ app.use(serveStatic(servedDir));
 app.engine(".html", renderFileToString);
 app.set("views", join(__dirname, "views"));
 app.set("view engine", "html");
+app.set("hostname", "0.0.0.0");
 
 /**
  * Serve our client JS bundle.
