@@ -1,1 +1,1 @@
-web: deno run --allow-read --allow-net --unstable server.tsx --port=$PORT
+web: deno run --allow-read --allow-net --unstable server.tsx --port={$PORT}
