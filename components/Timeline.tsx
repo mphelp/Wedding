@@ -28,7 +28,6 @@ export const Timeline = () => {
                         date={year}
                         icon={icons[year_i]()}
                         iconStyle={{ background: 'rgb(255, 255, 255)', color: '#fff', width: '60' }}
-                        dateStyle="padding-left: 15px"
                         layout={'2-columns'}
                     >
                         <img src={images[year_i][0]} className="custom_img"/>

@@ -8,6 +8,7 @@ body {
     white-space: pre-line;
 }
 span.vertical-timeline-element-date {
+    font-weight: bold !important;
     padding-left: 15px !important;
     font-size: large !important;
     padding-top: 0px !important;
